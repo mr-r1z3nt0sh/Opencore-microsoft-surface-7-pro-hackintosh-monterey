@@ -1,4 +1,4 @@
-# microsoft-surface-7-pro-hackintosh-monterey
+# Opencore microsoft-surface-7-pro-hackintosh-monterey
 
 Functional efi for microsoft surface 7 pro laptop, working with monterey 12.6.7
 
